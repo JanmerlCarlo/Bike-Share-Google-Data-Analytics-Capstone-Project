@@ -1,8 +1,6 @@
 # Bike-Share-Google-Data-Analytics-Capstone-Project
 ## Case Study: How Does a Bike-Share Navigate Speedy Success?
 
-### You can find the certification course at - https://www.coursera.org/professional-certificates/google-data-analytics
-
 ## Introduction
 
 ### Welcome to the Cyclistic bike-share analysis case study! 
@@ -12,3 +10,5 @@ In this case study, you will perform many real-world tasks of a juniordata analy
 By the end of this lesson, you will have a portfolio-ready case study. Download the packet and reference the details of this
 case study anytime. Then, when you begin your job hunt, your case study will be a tangible way to demonstrate your
 knowledge and skills to potential employers.
+
+You can find the certification course at - https://www.coursera.org/professional-certificates/google-data-analytics
