@@ -12,5 +12,4 @@ case study anytime. Then, when you begin your job hunt, your case study will be 
 knowledge and skills to potential employers.
 
 You can find the certification course at - https://www.coursera.org/professional-certificates/google-data-analytics
-The database that was used here was from January 2022-December 2022
-You can download the datacase here: https://divvy-tripdata.s3.amazonaws.com/index.html
+The database that was used here was from January 2022-December 2022. You can download the datacase here: https://divvy-tripdata.s3.amazonaws.com/index.html
